@@ -1,0 +1,47 @@
+**C Programming Lab Questions - Grade XII**
+
+1. Write a program to display “Hello World” using function.
+2. WAP to find the sum of two input numbers using **user-defined function**.
+3. WAP to enter the radius of a circle and find the area of the circle using **user-defined function**.
+4. WAP to input the length and breadth of a pond and find its area using **user-defined function**.
+5. WAP to read the principal, time, and rate and also find the **Simple Interest** using **function**.
+6. WAP to input a number and check whether it is positive or negative using **user-defined function**.
+7. WAP to check if the input number is odd or even using **your own function**.
+8. WAP to read a number and find its **factorial** using **function**.
+9. WAP to find the reverse of an input number using **function**.
+10. WAP to display the following pattern:
+   *
+   **
+   ***
+   ****
+   *****
+   1  
+   12  
+   123  
+   1234  
+   12345  
+11. WAP to find the **factorial** of an input number using **recursion**.
+12. WAP to find the **sum of first n natural numbers** using **recursion**.
+13. WAP to display the **Fibonacci series** up to **n** terms using **recursion**.
+14. Create a **structure** named **“book”** with members: **book ID, title, author, and price**. Write a main program to read and display the details of a book.
+15. Write a C program to enter **name, grade, age, and address** of **10 students** in a structure and display all the information.
+16. Write a program using **structure** to input **employee ID, name, address, and post** of **20 employees**, and display the records of those employees who belong to the **“Kathmandu” address**.
+17. WAP using **structure** to input **staff ID, name, and salary** of **50 staff members**. Display **staff ID, name, and salary** of those whose **salary range is between 25,000 and 40,000**.
+18. Create a **structure** with members **name, code, and credit hours**. Write a program to read records of **n** courses and display only those records where **credit hours are greater than 3**.
+19. Create a **structure** for **employee** with members **name, post, and salary**. Write a program to read records of **5 employees** using **structure** and display all the records in **alphabetical order of name**.
+20. WAP to enter the details of **5 students** with **name, age, and address** using **structure**, and display only the details of **students whose age is greater than 18**.
+21. WAP to **print the memory address and actual value** of any variable using **pointer**.
+22. WAP to illustrate the concept of **pointer arithmetic**.
+23. WAP to **read two integers and find their sum** using **pointer**.
+24. WAP to **display array elements** using the concept of **pointer**.
+25. WAP to **swap the values of two variables** using **Call by Value and Call by Reference**.
+26. WAP to **enter values into the file “data.txt”** using **fputc() function**.
+27. WAP to **read the values from the file “data.txt”** using **fgetc() function** and display them as output.
+28. WAP to **write “Hello Kathmandu BernHardt” into the file “file.txt”** using **fputs() function**.
+29. WAP to **read all the data from the file “file.txt”** and display it on the output screen.
+30. WAP to **write name, address, roll number, and marks of Computer Science subject of 5 students** into the file **“student.txt”**.
+31. WAP to **read all the details of students from the file “student.txt”** and display them in **tabular format**.
+32. WAP to illustrate the use of **append mode** in **file operations**.
+33. WAP to **read all content from the file “input.txt”** and write it into **“output.txt”**.
+34. WAP to illustrate the **use of fread() and fwrite() functions** used in file handling.
+

@@ -1,3 +1,4 @@
+/*WAP to **read all the details of students from the file “student.txt”** and display them in **tabular format**.*/
 #include <stdio.h>
 #include <string.h>
 

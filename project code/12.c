@@ -1,3 +1,4 @@
+/*WAP to find the **factorial** of an input number using **recursion***/
 #include <stdio.h>
 
 long factorial(int n) {

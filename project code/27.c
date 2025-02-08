@@ -1,3 +1,5 @@
+/*WAP to **enter values into the file “data.txt”** using **fputc() function**.
+*/
 #include <stdio.h>
 
 int main() {

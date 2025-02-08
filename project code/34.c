@@ -1,3 +1,4 @@
+/*WAP to **read all content from the file “input.txt”** and write it into **“output.txt”**.*/
 #include <stdio.h>
 #include <stdlib.h>
 

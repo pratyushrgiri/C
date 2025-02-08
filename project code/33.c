@@ -1,4 +1,4 @@
-
+/*WAP to illustrate the use of **append mode** in **file operations**.*/
 #include <stdio.h>
 
 int main() {

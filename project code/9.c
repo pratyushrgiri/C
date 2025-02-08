@@ -1,3 +1,4 @@
+/*WAP to find the reverse of an input number using **function**.*/
 #include <stdio.h>
 
 int reverse(int num) {

@@ -1,3 +1,4 @@
+/*Create a **structure** with members **name, code, and credit hours**. Write a program to read records of **n** courses and display only those records where **credit hours are greater than 3**.*/
 #include <stdio.h>
 struct Course {
     char name[50];

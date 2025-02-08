@@ -1,4 +1,5 @@
-
+/*WAP to illustrate the concept of **pointer arithmetic**.
+*/
 #include <stdio.h>
 
 int main() {

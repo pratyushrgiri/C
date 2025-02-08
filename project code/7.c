@@ -1,5 +1,5 @@
+/*WAP to check if the input number is odd or even using **your own function**.*/
 #include <stdio.h>
-
 int check_odd_even(int num) {
     if (num % 2 == 0) {
         return 1; // even

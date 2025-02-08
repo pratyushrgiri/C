@@ -1,4 +1,4 @@
-
+/*WAP to illustrate the **use of fread() and fwrite() functions** used in file handling.*/
 #include <stdio.h>
 #include <stdlib.h>
 

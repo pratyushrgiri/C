@@ -1,3 +1,4 @@
+/*WAP to display the **Fibonacci series** up to **n** terms using **recursion**.*/
 #include <stdio.h>
 
 void fibonacci(int n, int t1, int t2) {

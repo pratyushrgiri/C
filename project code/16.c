@@ -1,4 +1,4 @@
-
+/* Write a C program to enter **name, grade, age, and address** of **10 students** in a structure and display all the information.*/
 #include <stdio.h>
 #include <string.h>
 

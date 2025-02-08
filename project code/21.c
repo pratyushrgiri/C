@@ -1,3 +1,4 @@
+/*WAP to enter the details of **5 students** with **name, age, and address** using **structure**, and display only the details of **students whose age is greater than 18**.*/
 #include <stdio.h>
 
 struct Student {

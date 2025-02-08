@@ -1,3 +1,4 @@
+/*WAP to **write “Hello Kathmandu BernHardt” into the file “file.txt”** using **fputs() function**.*/
 #include <stdio.h>
 
 int main() {

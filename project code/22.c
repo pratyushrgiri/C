@@ -1,3 +1,4 @@
+/*WAP to **print the memory address and actual value** of any variable using **pointer**.*/
 #include <stdio.h>
 
 int main() {

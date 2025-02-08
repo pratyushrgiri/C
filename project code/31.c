@@ -1,3 +1,4 @@
+/*WAP to **write name, address, roll number, and marks of Computer Science subject of 5 students** into the file **“student.txt”**.*/
 #include <stdio.h>
 #include <stdlib.h>
 

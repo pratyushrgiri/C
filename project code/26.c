@@ -1,4 +1,4 @@
-
+/* WAP to **swap the values of two variables** using **Call by Value and Call by Reference***/
 #include <stdio.h>
 
 // Function to swap two variables using Call by Value

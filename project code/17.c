@@ -1,4 +1,4 @@
-
+/*Write a program using **structure** to input **employee ID, name, address, and post** of **20 employees**, and display the records of those employees who belong to the **“Kathmandu” address**.*/
 #include <stdio.h>
 #include <string.h>
 

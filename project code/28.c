@@ -1,3 +1,5 @@
+/*WAP to **read the values from the file “data.txt”** using **fgetc() function** and display them as output.
+*/
 #include <stdio.h>
 
 int main() {

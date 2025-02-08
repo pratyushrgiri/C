@@ -1,4 +1,4 @@
-
+/*WAP using **structure** to input **staff ID, name, and salary** of **50 staff members**. Display **staff ID, name, and salary** of those whose **salary range is between 25,000 and 40,000**.*/
 #include <stdio.h>
 
 struct Staff {

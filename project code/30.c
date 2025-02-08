@@ -1,3 +1,4 @@
+/*WAP to **read all the data from the file “file.txt”** and display it on the output screen.*/
 #include <stdio.h>
 
 int main() {

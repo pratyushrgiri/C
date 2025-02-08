@@ -1,3 +1,4 @@
+/*WAP to find the **sum of first n natural numbers** using **recursion***/
 #include <stdio.h>
 int sum(int n) {
     if (n == 1)

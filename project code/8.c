@@ -1,3 +1,4 @@
+/*WAP to read a number and find its **factorial** using **function**.*/
 #include <stdio.h>
 
 long factorial(int);

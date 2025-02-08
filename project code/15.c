@@ -1,3 +1,5 @@
+/*Create a **structure** named **“book”** with members: **book ID, title, author, and price**. Write a main program to read and display the details of a book.
+*/
 # include <stdio.h>
 struct book {
     int id;

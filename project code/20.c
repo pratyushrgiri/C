@@ -1,4 +1,4 @@
-
+/*Create a **structure** for **employee** with members **name, post, and salary**. Write a program to read records of **5 employees** using **structure** and display all the records in **alphabetical order of name**.*/
 #include <stdio.h>
 #include <string.h>
 

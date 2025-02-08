@@ -1,3 +1,4 @@
+/* WAP to **display array elements** using the concept of **pointer**.*/
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,4 @@
+/*WAP to **read two integers and find their sum** using **pointer**.*/
 #include <stdio.h>
 
 int main() {
